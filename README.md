@@ -13,7 +13,7 @@ a partir dele, base de comparação e qualidade de cada peça.
 
 ## TESTES DE PROMPTS
 Iniciei o teste de prompts com uma pergunta mais tranquila e fui escalando o nível de especificidade, observando se ele 
-conseguia cruzar os dados das fontes adicionadas corretamente e até, ir além do que foi pedido. 
+conseguia cruzar os dados das fontes adicionadas corretamente e até ir além do que foi pedido. 
 Abaixo segue a lista de perguntas e os resultados obtidos:
 
 1. "Qual a diferença entre núcleos e threads de um processador?"
