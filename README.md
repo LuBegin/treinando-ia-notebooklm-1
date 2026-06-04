@@ -1,7 +1,7 @@
 # treinando-ia-notebooklm-1
 
 ## OBJETIVO
-O propósito deste caderno temático é compilar e detalhar conceitos técnicos básicos sobre o hardware de um PC desktop, obtendo 
+O propósito deste caderno temático é compilar e detalhar conceitos técnicos básicos sobre o hardware de um PC desktop obtendo, 
 a partir dele, base de comparação e qualidade de cada peça. 
 
 ## FONTES
@@ -12,7 +12,7 @@ a partir dele, base de comparação e qualidade de cada peça.
 - https://youtu.be/OrdiexfWdns?si=c3T5Tog5vRItDBwx
 
 ## TESTES DE PROMPTS
-Iniciei o teste de prompts com uma pergunta mais tranquilas e fui escalando a especificidade da pergunta, observando se ele 
+Iniciei o teste de prompts com uma pergunta mais tranquila e fui escalando o nível de especificidade, observando se ele 
 conseguia cruzar os dados das fontes adicionadas corretamente e até, ir além do que foi pedido. 
 Abaixo segue a lista de perguntas e os resultados obtidos:
 
