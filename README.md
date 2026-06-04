@@ -2,7 +2,7 @@
 
 ## OBJETIVO
 O propósito deste caderno temático é compilar e detalhar conceitos técnicos básicos sobre o hardware de um PC desktop, obtendo 
-a partir dele base de comparação e qualidade de cada peça. 
+a partir dele, base de comparação e qualidade de cada peça. 
 
 ## FONTES
 - https://blog.kabum.com.br/como-escolher-placa-de-video-guia-monte-seu-pc/
