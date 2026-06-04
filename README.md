@@ -53,7 +53,7 @@ Abaixo segue a lista de perguntas e os resultados obtidos:
 
 ## MINIGUIA de ESTUDO
 Neste tópico gostaria de deixar um miniguia de estudo da área em que eu treinei o notebookLM, dividido em resumo, glossário e
-prompts reutilizáveis. Ele me ajudou a relembrar algumas curiosidade e conceitos desta temática!
+prompts reutilizáveis. Ele me ajudou a relembrar algumas curiosidades e conceitos desta temática!
 
 
 **RESUMO**
