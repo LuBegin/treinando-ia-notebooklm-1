@@ -21,7 +21,7 @@ Abaixo segue a lista de perguntas e os resultados obtidos:
    Como tinham fontes (textuais e audiovisuais) bem diretas sobre o tema, iniciei o teste perguntando sobre a funcionalidade do processador.
 
    RESULTADO: o modelo respondeu com riqueza de detalhes, explicando de forma bem satisfatória as diferenças físicas e virtuais do componente, dividindo
-   a explicação em duas partes: "Núcleo - Unidades físicas" e "Threads - Processadores Lógico".
+   a explicação em duas partes: "Núcleo - Unidades físicas" e "Threads - Processadores Lógicos".
    Ele conseguiu fazer analogias como "Se os núcleos físicos são os 'braços' do processador, as threads representam a capacidade que cada um
    desses braços tem de segurar dois pratos de uma vez" sem grandes dificuldades, provando não apenas que ele reteve o conteúdo, mas que consegue
    explicar de forma prática para quem está estudando.
