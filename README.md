@@ -1,4 +1,4 @@
-# treinando-ia-notebooklm-1
+# treinando-ia-notebooklm-
 
 ## OBJETIVO
 O propósito deste caderno temático é compilar e detalhar conceitos técnicos básicos sobre o hardware de um PC desktop obtendo, 
